@@ -1,0 +1,11 @@
+.head {
+  text-align: center;
+}
+
+.two {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  background: violet;
+  text-align: left;
+}
